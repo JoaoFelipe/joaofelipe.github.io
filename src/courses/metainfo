@@ -1,0 +1,16 @@
+--- paths
+[/**/*.pdf, /**/*.dat, /**/*.zip, /**/*.pptx, /**/*.xsd, /**/*.txt, /**/*.dotx, /**/*.sql, /**/*.png, /**/*.rar, /**/*.pl, /.htaccess, /**/*.c,]:
+  handler: copy
+
+--- alcn
+2022.2/:
+  title: 2022.2
+  proxy_path: rmse.html
+  in_menu: true
+  sort_info: 99
+
+2024.1/:
+  title: 2024.1
+  proxy_path: gpms.html
+  in_menu: true
+  sort_info: 98

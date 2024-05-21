@@ -1,0 +1,37 @@
+---
+title: Current Students
+in_menu: true
+sort_info: 1
+---
+
+<style>
+li {
+	width: 500px;
+	height: 120px;
+	display: inline-block;
+}
+</style>
+
+## PhD Students
+
+* |![Picture](pictures/CamilaAcaciodePaiva.jpg)|Camila Acácio de Paiva<br/>May, 2024<br/>CNPq Scholarship (PrimeUp partnership)
+
+## MS Students
+
+* |![Picture](pictures/question.jpg)|João Pedro López da Cruz<br/>March, 2023<br/>
+* |![Picture](pictures/ArthurPaiva.png)|Arthur de Oliveira Paiva<br/>March, 2023<br/>
+
+## Undergrad Students
+
+* |![Picture](pictures/CaioHenriqueVellosoParanhos.jpg)|Caio Henrique Velloso Paranhos<br/>December, 2023
+* |![Picture](pictures/AndersonOtavianoMeirelesJunior.jpg)|Anderson Otaviano Meireles Junior<br/>February, 2024<br/>Travel Trade Group
+* |![Picture](pictures/question.jpg)|Luis Adriano da Silva<br/>April, 2024
+
+<!-- ## Undergrad Students (Scientific Initiation) -->
+
+
+## GSOC Students
+
+* |![Picture](pictures/question.jpg)|Joshua Daniel Talahatu<br/>May, 2024
+
+

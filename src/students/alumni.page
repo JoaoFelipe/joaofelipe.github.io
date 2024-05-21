@@ -1,0 +1,35 @@
+---
+title: Alumni
+in_menu: true
+sort_info: 2
+---
+
+<style>
+li {
+	width: 500px;
+	height: 120px;
+	display: inline-block;
+}
+</style>
+
+<!--
+## Former PhD Students
+
+
+
+## Former MS Students
+
+
+## Former Undergrad Students (Scientific Initiation)
+
+-->
+
+
+## Former Undergrad Students (Final Undergrad Project)
+
+* |![Picture](pictures/VyniciusMoraisPontes.jpg)|Vynicius Morais Pontes<br/>July, 2023
+
+
+## Former Summer of Reproducibility Students
+
+* |![Picture](pictures/JesseLima.jpg)|Jessé Lima<br/>2023
